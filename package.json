@@ -11,7 +11,7 @@
   "author": "Halfmonnly",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^18.19.78",
+    "@types/node": "^18.19.121",
     "typescript": "^4.0.0"
   }
 }

@@ -6,7 +6,7 @@
       "request": "launch",
       "name": "Debug TypeScript",
       "preLaunchTask": "tsc: build - tsconfig.json", // 编译任务
-      "program": "${workspaceFolder}/index.ts", // 入口文件
+      "program": "${workspaceFolder}/src/index.ts", // 入口文件
       "outFiles": ["${workspaceFolder}/dist/**/*.js"], // 编译后的 JS 路径
       "sourceMaps": true, // 启用 sourceMap
       "skipFiles": ["<node_internals>/**"]

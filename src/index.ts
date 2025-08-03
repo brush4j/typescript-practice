@@ -1,5 +1,5 @@
 
-import { fn1 } from './src/mock';
+import { fn1 } from './mock';
 fn1();
 import * as fs from 'fs';
 import * as path from 'path';
